@@ -29,7 +29,7 @@ app.use(helmet());
 // 2. CORS Configuration
 const corsOptions = {
   origin: [
-    "https://megaboosterpanel.shop", // Your main admin frontend
+    "https://cheapad.smmaria.site", // Your main admin frontend
     "https://smmaria.site", // Your main user frontend
     "https://adminmaria.gt.tc",
     "https://cheap.smmaria.site", // Local development frontend
